@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+/* Custom elegant scrollbar for the dark blue theme */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 5px;
+}
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: rgba(14, 165, 233, 0.05);
+  border-radius: 10px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(14, 165, 233, 0.35);
+  border-radius: 10px;
+}
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: rgba(14, 165, 233, 0.6);
+}
+

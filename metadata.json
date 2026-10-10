@@ -1,0 +1,8 @@
+{
+  "name": "Remix Catálogo do Mundo Fictício",
+  "description": "Um catálogo interativo de um mundo de fantasia fictício, simulando livros sobre uma mesa de madeira antiga com lore, raças, monstros e magia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
